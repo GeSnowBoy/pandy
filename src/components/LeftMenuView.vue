@@ -18,13 +18,13 @@ export default {
         {
           icon: "&#xeb8b;",
           text: "全部直播",
-          link: "http://www.baidu.com",
+          link: "/cate",
           isShowHot: false
         },
         {
           icon: "&#xeb89;",
           text: "全部分类",
-          link: "http://www.baidu.com",
+          link: "/cate",
           isShowHot: false
         },
         {
@@ -36,31 +36,31 @@ export default {
         {
           icon: "&#xeb6f;",
           text: "熊猫精品",
-          link: "http://www.baidu.com",
+          link: "/cate",
           isShowHot: false
         },
         {
           icon: "&#xeb6b;",
           text: "熊猫小店",
-          link: "http://www.baidu.com",
+          link: "/cate",
           isShowHot: false
         },
         {
           icon: "&#xeb68;",
           text: "熊猫游戏",
-          link: "http://www.baidu.com",
+          link: "/cate",
           isShowHot: true
         },
         {
           icon: "&#xeb67;",
           text: "熊猫招募",
-          link: "http://www.baidu.com",
+          link: "/cate",
           isShowHot: false
         },
         {
           icon: "&#xeb69;",
           text: "我的订阅",
-          link: "http://www.baidu.com",
+          link: "/cate",
           isShowHot: false
         }
       ]

@@ -7,7 +7,11 @@ export function customXHR(url, config = {}) {
         try {
           resolve(JSON.parse(xhr.responseText));
         } catch (e) {
-          resolve(xhr.responseText);
+          try {
+            resolve(eval('(' + xhr.responseText + ')'));
+          } catch (e) {
+            resolve(xhr.responseText);
+          }
         }
       }
     };

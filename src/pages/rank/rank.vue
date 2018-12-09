@@ -3,22 +3,22 @@
     <right-content-header title="排行榜"></right-content-header>
     <div class="rank-wrap">
       <div class="rank-item">
-        <rank-item title="车站日榜" url="/static/apis/week.json"></rank-item>
+        <rank-item title="车站日榜" url="./static/apis/week.json"></rank-item>
       </div>
       <div class="rank-item">
-        <rank-item title="车站周榜" url="/static/apis/week.json"></rank-item>
+        <rank-item title="车站周榜" url="./static/apis/week.json"></rank-item>
       </div>
       <div class="rank-item">
-        <rank-item title="车站月榜" url="/static/apis/week.json"></rank-item>
+        <rank-item title="车站月榜" url="./static/apis/week.json"></rank-item>
       </div>
       <div class="rank-item">
-        <rank-item title="魅力主播榜" url="/static/apis/week.json"></rank-item>
+        <rank-item title="魅力主播榜" url="./static/apis/week.json"></rank-item>
       </div>
       <div class="rank-item">
-        <rank-item title="受欢迎主播" url="/static/apis/week.json"></rank-item>
+        <rank-item title="受欢迎主播" url="./static/apis/week.json"></rank-item>
       </div>
       <div class="rank-item">
-        <rank-item title="弹幕条数榜" url="/static/apis/week.json"></rank-item>
+        <rank-item title="弹幕条数榜" url="./static/apis/week.json"></rank-item>
       </div>
     </div>
   </div>
