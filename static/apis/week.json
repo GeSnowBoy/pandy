@@ -1,0 +1,3008 @@
+{
+  "cur_week": "20181203",
+  "cur_rank_list": [
+    {
+      "anchorid": "3169412",
+      "user_count": "13311",
+      "userinfo": {
+        "rid": 3169412,
+        "nickName": "托马斯CzH",
+        "avatar": "http://i6.pdim.gs/666c7845e774c696821c172189edf5fd.jpeg"
+      },
+      "roominfo": {
+        "id": "20641",
+        "hostid": "3169412",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "30446032",
+      "user_count": "6664",
+      "userinfo": {
+        "rid": 30446032,
+        "nickName": "洪湖小肖户外打野",
+        "avatar": "http://i9.pdim.gs/46fa2fd8a4f2e05e6095282afb908150.jpg"
+      },
+      "roominfo": {
+        "id": "337852",
+        "hostid": "30446032",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "3503636",
+      "user_count": "6259",
+      "userinfo": {
+        "rid": 3503636,
+        "nickName": "戰族丿牧风",
+        "avatar": "http://i6.pdim.gs/bfc4e1d3506b20d56534ffde68092e8d.jpg"
+      },
+      "roominfo": {
+        "id": "100000",
+        "hostid": "3503636",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "112858386",
+      "user_count": "6243",
+      "userinfo": {
+        "rid": 112858386,
+        "nickName": "路大叔_",
+        "avatar": "http://i9.pdim.gs/cac42f228c588d7bd00d049cfaf57de0.jpg"
+      },
+      "roominfo": {
+        "id": "333999",
+        "hostid": "112858386",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "40416018",
+      "user_count": "5920",
+      "userinfo": {
+        "rid": 40416018,
+        "nickName": "帝王白菜",
+        "avatar": "http://i9.pdim.gs/d0a02f39a709ae5dc993670d531d53d0.png"
+      },
+      "roominfo": {
+        "id": "63333",
+        "hostid": "40416018",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "3056580",
+      "user_count": "5142",
+      "userinfo": {
+        "rid": 3056580,
+        "nickName": "雨神、",
+        "avatar": "http://i9.pdim.gs/d4bb317f521351a57935d841efacdafe.jpeg"
+      },
+      "roominfo": {
+        "id": "6512",
+        "hostid": "3056580",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "25714080",
+      "user_count": "5074",
+      "userinfo": {
+        "rid": 25714080,
+        "nickName": "熊猫丶浩哥户外",
+        "avatar": "http://i9.pdim.gs/eb6753fe7cf32db9ad0c42c91227fd13.jpg"
+      },
+      "roominfo": {
+        "id": "257838",
+        "hostid": "25714080",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "37849992",
+      "user_count": "4376",
+      "userinfo": {
+        "rid": 37849992,
+        "nickName": "命族丶命运丨",
+        "avatar": "http://i5.pdim.gs/5f9823fa9b91b79b3bf2cdfcb08f5a37.jpg"
+      },
+      "roominfo": {
+        "id": "484168",
+        "hostid": "37849992",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3010086",
+      "user_count": "3957",
+      "userinfo": {
+        "rid": 3010086,
+        "nickName": "刘杀鸡",
+        "avatar": "http://i7.pdim.gs/6d1710453eed85463383866591c8bef9.png"
+      },
+      "roominfo": {
+        "id": "66666",
+        "hostid": "3010086",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "60618446",
+      "user_count": "3944",
+      "userinfo": {
+        "rid": 60618446,
+        "nickName": "Jony向死而生",
+        "avatar": "http://i6.pdim.gs/5e46a93ce8724ecc5d3c0833c04a163b.jpeg"
+      },
+      "roominfo": {
+        "id": "2193979",
+        "hostid": "60618446",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3009988",
+      "user_count": "3809",
+      "userinfo": {
+        "rid": 3009988,
+        "nickName": "风行云",
+        "avatar": "http://i6.pdim.gs/3d62c737e4dd90dc6c4990de9ab00fb8.png"
+      },
+      "roominfo": {
+        "id": "10015",
+        "hostid": "3009988",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "34884818",
+      "user_count": "3590",
+      "userinfo": {
+        "rid": 34884818,
+        "nickName": "星美盛世传媒",
+        "avatar": "http://i6.pdim.gs/dc33b07b15a1291384348bad303c8344.jpg"
+      },
+      "roominfo": {
+        "id": "435992",
+        "hostid": "34884818",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "38027126",
+      "user_count": "3585",
+      "userinfo": {
+        "rid": 38027126,
+        "nickName": "yufo888666",
+        "avatar": "http://i5.pdim.gs/6c256c4c894410a71579cc6bbae0e7a9.jpeg"
+      },
+      "roominfo": {
+        "id": "1225685",
+        "hostid": "38027126",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "20853042",
+      "user_count": "3403",
+      "userinfo": {
+        "rid": 20853042,
+        "nickName": "一一果果一",
+        "avatar": "http://i7.pdim.gs/065a91e09713f18ae5ac50c599f908e6.jpg"
+      },
+      "roominfo": {
+        "id": "111999",
+        "hostid": "20853042",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "26517866",
+      "user_count": "3374",
+      "userinfo": {
+        "rid": 26517866,
+        "nickName": "戰族丿成成",
+        "avatar": "http://i8.pdim.gs/200947a5ea74d843c69a17fe7e8871ca.jpg"
+      },
+      "roominfo": {
+        "id": "520666",
+        "hostid": "26517866",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "105425278",
+      "user_count": "3361",
+      "userinfo": {
+        "rid": 105425278,
+        "nickName": "帝王球球",
+        "avatar": "http://i5.pdim.gs/7967da903f0618ad7becba5868ef08c5.png"
+      },
+      "roominfo": {
+        "id": "1505633",
+        "hostid": "105425278",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "36476484",
+      "user_count": "3307",
+      "userinfo": {
+        "rid": 36476484,
+        "nickName": "Ace丶D艾斯",
+        "avatar": "http://i9.pdim.gs/de039fea497e68deeb8ef3057b692ee0.jpg"
+      },
+      "roominfo": {
+        "id": "633929",
+        "hostid": "36476484",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "120831990",
+      "user_count": "3194",
+      "userinfo": {
+        "rid": 120831990,
+        "nickName": "永恒丶唯己",
+        "avatar": "http://i6.pdim.gs/17c105ead5602e8b57b4dae0d68682be.jpg"
+      },
+      "roominfo": {
+        "id": "1811418",
+        "hostid": "120831990",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "31019310",
+      "user_count": "2932",
+      "userinfo": {
+        "rid": 31019310,
+        "nickName": "寒冬Zz",
+        "avatar": "http://i9.pdim.gs/cc38270ec8de6459f814b44543fd0a24.jpeg"
+      },
+      "roominfo": {
+        "id": "628571",
+        "hostid": "31019310",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "27636760",
+      "user_count": "2871",
+      "userinfo": {
+        "rid": 27636760,
+        "nickName": "FZT_方正",
+        "avatar": "http://i6.pdim.gs/99ec2cd48a659be9c249be9f3731b49b.jpg"
+      },
+      "roominfo": {
+        "id": "769965",
+        "hostid": "27636760",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "55537788",
+      "user_count": "2866",
+      "userinfo": {
+        "rid": 55537788,
+        "nickName": "爱超神的大妮",
+        "avatar": "http://i7.pdim.gs/2635ebc2acb1f5dac4adbfa865bd4b7c.jpg"
+      },
+      "roominfo": {
+        "id": "617468",
+        "hostid": "55537788",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "97907376",
+      "user_count": "2705",
+      "userinfo": {
+        "rid": 97907376,
+        "nickName": "领界传媒",
+        "avatar": "http://i9.pdim.gs/5b3a4f131e3e833d058fbe0eafeba21f.jpeg"
+      },
+      "roominfo": {
+        "id": "1350869",
+        "hostid": "97907376",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "119763368",
+      "user_count": "2677",
+      "userinfo": {
+        "rid": 119763368,
+        "nickName": "Saki小夭夭",
+        "avatar": "http://i8.pdim.gs/fc01617a7ff36bbdc1d661f2b2f06ea3.jpg"
+      },
+      "roominfo": {
+        "id": "1945261",
+        "hostid": "119763368",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "26485224",
+      "user_count": "2609",
+      "userinfo": {
+        "rid": 26485224,
+        "nickName": "Mr丶奋斗",
+        "avatar": "http://i5.pdim.gs/83ff0715f65e40a94c199684a72ffe6f.jpeg"
+      },
+      "roominfo": {
+        "id": "280071",
+        "hostid": "26485224",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "80425374",
+      "user_count": "2596",
+      "userinfo": {
+        "rid": 80425374,
+        "nickName": "色扣必胜",
+        "avatar": "http://i5.pdim.gs/037b8b5c96d10b82d930bb63698c5611.jpg"
+      },
+      "roominfo": {
+        "id": "1832469",
+        "hostid": "80425374",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "31710696",
+      "user_count": "2551",
+      "userinfo": {
+        "rid": 31710696,
+        "nickName": "别再讨好虚伪",
+        "avatar": "http://i5.pdim.gs/53a3c16500342bccfbabce1c5045eaab.jpeg"
+      },
+      "roominfo": {
+        "id": "504097",
+        "hostid": "31710696",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "53966180",
+      "user_count": "2510",
+      "userinfo": {
+        "rid": 53966180,
+        "nickName": "老狼雄起",
+        "avatar": "http://i7.pdim.gs/21cfab30fc741d509bf2ef70ea0d226e.jpeg"
+      },
+      "roominfo": {
+        "id": "911527",
+        "hostid": "53966180",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "88927740",
+      "user_count": "2425",
+      "userinfo": {
+        "rid": 88927740,
+        "nickName": "波克捕鱼达人小白",
+        "avatar": "http://i7.pdim.gs/acb9687df3736163ba98347cdd48403c.jpg"
+      },
+      "roominfo": {
+        "id": "1163254",
+        "hostid": "88927740",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "4550918",
+      "user_count": "2415",
+      "userinfo": {
+        "rid": 4550918,
+        "nickName": "宅妹",
+        "avatar": "http://i7.pdim.gs/12d0bf12e125463317f5e6a4c04e1327.jpg"
+      },
+      "roominfo": {
+        "id": "6666666",
+        "hostid": "4550918",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "32442090",
+      "user_count": "2384",
+      "userinfo": {
+        "rid": 32442090,
+        "nickName": "蓝战非",
+        "avatar": "http://i7.pdim.gs/9ec8fadcbcce4db9f781370b349044f9.jpeg"
+      },
+      "roominfo": {
+        "id": "70000",
+        "hostid": "32442090",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "33349868",
+      "user_count": "2340",
+      "userinfo": {
+        "rid": 33349868,
+        "nickName": "波克奋斗ing",
+        "avatar": "http://i6.pdim.gs/430802d7ed493dfe749eceb880a33325.jpg"
+      },
+      "roominfo": {
+        "id": "56565",
+        "hostid": "33349868",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "133021870",
+      "user_count": "2247",
+      "userinfo": {
+        "rid": 133021870,
+        "nickName": "沐慈Kiki",
+        "avatar": "http://i7.pdim.gs/2687674502a50c2a089512807c5b18ed.jpg"
+      },
+      "roominfo": {
+        "id": "1906638",
+        "hostid": "133021870",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "44812664",
+      "user_count": "2222",
+      "userinfo": {
+        "rid": 44812664,
+        "nickName": "雪_舞",
+        "avatar": "http://i6.pdim.gs/b3885ee9d8f7bcefb2e445db66df1fa5.jpg"
+      },
+      "roominfo": {
+        "id": "2239414",
+        "hostid": "44812664",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "28117662",
+      "user_count": "2197",
+      "userinfo": {
+        "rid": 28117662,
+        "nickName": "爱灵真是太好了",
+        "avatar": "http://i8.pdim.gs/8af72eb076e6c34a1b0c03162d6039a6.jpeg"
+      },
+      "roominfo": {
+        "id": "2264092",
+        "hostid": "28117662",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "146154560",
+      "user_count": "2185",
+      "userinfo": {
+        "rid": 146154560,
+        "nickName": "沙拉sala",
+        "avatar": "http://i7.pdim.gs/6fed6fcc58d697a79d4d56ec99616acd.jpeg"
+      },
+      "roominfo": {
+        "id": "2060133",
+        "hostid": "146154560",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "55643710",
+      "user_count": "2176",
+      "userinfo": {
+        "rid": 55643710,
+        "nickName": "龙象会丶敏感",
+        "avatar": "http://i9.pdim.gs/442e013b74599851b6fb5a4d06bed9f8.jpeg"
+      },
+      "roominfo": {
+        "id": "609428",
+        "hostid": "55643710",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "108636218",
+      "user_count": "2135",
+      "userinfo": {
+        "rid": 108636218,
+        "nickName": "贾克虎丶虎神",
+        "avatar": "http://i7.pdim.gs/a546e1b207a5a5ff1e7d25e5f3fb8594.png"
+      },
+      "roominfo": {
+        "id": "575757",
+        "hostid": "108636218",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "70153690",
+      "user_count": "2094",
+      "userinfo": {
+        "rid": 70153690,
+        "nickName": "小师弟180",
+        "avatar": "http://i5.pdim.gs/12d7ec6dec2eb6f0e733838a664da25f.jpg"
+      },
+      "roominfo": {
+        "id": "727405",
+        "hostid": "70153690",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "29367650",
+      "user_count": "2064",
+      "userinfo": {
+        "rid": 29367650,
+        "nickName": "戰族丿老莫",
+        "avatar": "http://i6.pdim.gs/9301abaa7b8aef9fd762a3f7da4ba2fd.jpg"
+      },
+      "roominfo": {
+        "id": "892053",
+        "hostid": "29367650",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "133496250",
+      "user_count": "2005",
+      "userinfo": {
+        "rid": 133496250,
+        "nickName": "胖虎精品万炮专家",
+        "avatar": "http://i6.pdim.gs/86ceba657386091c6304811fca63bb33.jpeg"
+      },
+      "roominfo": {
+        "id": "2183585",
+        "hostid": "133496250",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "53196726",
+      "user_count": "1929",
+      "userinfo": {
+        "rid": 53196726,
+        "nickName": "屠鱼族丿小刀",
+        "avatar": "http://i6.pdim.gs/43368f9678ca27d8da71f5e2540908db.jpeg"
+      },
+      "roominfo": {
+        "id": "715764",
+        "hostid": "53196726",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3354636",
+      "user_count": "1928",
+      "userinfo": {
+        "rid": 3354636,
+        "nickName": "ToveLo",
+        "avatar": "http://i9.pdim.gs/9490e68119724f531abd2d1f6412b312.jpeg"
+      },
+      "roominfo": {
+        "id": "26668",
+        "hostid": "3354636",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "54754230",
+      "user_count": "1888",
+      "userinfo": {
+        "rid": 54754230,
+        "nickName": "主播丶阿杰",
+        "avatar": "http://i5.pdim.gs/8155e97e79d93528ff1220493cb0ad0c.jpg"
+      },
+      "roominfo": {
+        "id": "1221978",
+        "hostid": "54754230",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "21126058",
+      "user_count": "1865",
+      "userinfo": {
+        "rid": 21126058,
+        "nickName": "MilkGod牛奶",
+        "avatar": "http://i7.pdim.gs/3525c6ac1695bcf14856341ae58d1f9e.jpg"
+      },
+      "roominfo": {
+        "id": "33332",
+        "hostid": "21126058",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "83665216",
+      "user_count": "1854",
+      "userinfo": {
+        "rid": 83665216,
+        "nickName": "一仙某某一",
+        "avatar": "http://i6.pdim.gs/2ce8886839b58c58f2bc2809284f9917.jpeg"
+      },
+      "roominfo": {
+        "id": "88888",
+        "hostid": "83665216",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "38832458",
+      "user_count": "1831",
+      "userinfo": {
+        "rid": 38832458,
+        "nickName": "捕鱼大雄哥",
+        "avatar": "http://i5.pdim.gs/20dd059a8e65acfa00cc8cf73fb06987.jpg"
+      },
+      "roominfo": {
+        "id": "507910",
+        "hostid": "38832458",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "23796304",
+      "user_count": "1802",
+      "userinfo": {
+        "rid": 23796304,
+        "nickName": "斯傲",
+        "avatar": "http://i9.pdim.gs/c6b7b9f8d34c7d1f2a6b98dc631784b4.jpeg"
+      },
+      "roominfo": {
+        "id": "208396",
+        "hostid": "23796304",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "140781158",
+      "user_count": "1802",
+      "userinfo": {
+        "rid": 140781158,
+        "nickName": "笑言S",
+        "avatar": "http://i8.pdim.gs/075fac3da2219456626786974e4a6f7a.jpg"
+      },
+      "roominfo": {
+        "id": "2016233",
+        "hostid": "140781158",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "40470368",
+      "user_count": "1767",
+      "userinfo": {
+        "rid": 40470368,
+        "nickName": "Super你兵哥",
+        "avatar": "http://i8.pdim.gs/60c2fe0d88281199987d19b79a73a4a6.jpg"
+      },
+      "roominfo": {
+        "id": "561227",
+        "hostid": "40470368",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "65613182",
+      "user_count": "1576",
+      "userinfo": {
+        "rid": 65613182,
+        "nickName": "一一六六一",
+        "avatar": "http://i9.pdim.gs/60dc53d4fe7eba1e39c18239a86419fa.jpg"
+      },
+      "roominfo": {
+        "id": "2195948",
+        "hostid": "65613182",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "149810464",
+      "user_count": "1576",
+      "userinfo": {
+        "rid": 149810464,
+        "nickName": "波克捕鱼达人青春",
+        "avatar": "http://i9.pdim.gs/f255e46a301c25ef9fd8df635e7c6515.png"
+      },
+      "roominfo": {
+        "id": "2167534",
+        "hostid": "149810464",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "33101240",
+      "user_count": "1569",
+      "userinfo": {
+        "rid": 33101240,
+        "nickName": "戰族丿荔枝",
+        "avatar": "http://i7.pdim.gs/b1f17ffc99c7a5d66226ddec22da95bc.jpeg"
+      },
+      "roominfo": {
+        "id": "2293788",
+        "hostid": "33101240",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "84925278",
+      "user_count": "1554",
+      "userinfo": {
+        "rid": 84925278,
+        "nickName": "溜了个欣欣",
+        "avatar": "http://i9.pdim.gs/fec5709872d78340850741a6f0f3bbc2.jpg"
+      },
+      "roominfo": {
+        "id": "2051104",
+        "hostid": "84925278",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "103517664",
+      "user_count": "1553",
+      "userinfo": {
+        "rid": 103517664,
+        "nickName": "阿稀稀大魔王0v0",
+        "avatar": "http://i5.pdim.gs/7ddef5a7e27dfee951a2f60260ac6e26.jpg"
+      },
+      "roominfo": {
+        "id": "1468681",
+        "hostid": "103517664",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "34061700",
+      "user_count": "1551",
+      "userinfo": {
+        "rid": 34061700,
+        "nickName": "洪湖828打野",
+        "avatar": "http://i6.pdim.gs/b823c423f7d7c7a640eaefe9d1cc4609.jpeg"
+      },
+      "roominfo": {
+        "id": "1382668",
+        "hostid": "34061700",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "90853274",
+      "user_count": "1550",
+      "userinfo": {
+        "rid": 90853274,
+        "nickName": "鱼友会小样",
+        "avatar": "http://i6.pdim.gs/abf5bf8352b92f16af3a10ba73299436.jpeg"
+      },
+      "roominfo": {
+        "id": "2243175",
+        "hostid": "90853274",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "31571582",
+      "user_count": "1486",
+      "userinfo": {
+        "rid": 31571582,
+        "nickName": "大高个令北",
+        "avatar": "http://i5.pdim.gs/1d22e23dbfd658710100164bf50ba865.jpeg"
+      },
+      "roominfo": {
+        "id": "365382",
+        "hostid": "31571582",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "127826480",
+      "user_count": "1469",
+      "userinfo": {
+        "rid": 127826480,
+        "nickName": "杂耍老大飞鱼妹",
+        "avatar": "http://i6.pdim.gs/8e2c45922fb0aba7a57384b65fcbe27c.jpg"
+      },
+      "roominfo": {
+        "id": "1862008",
+        "hostid": "127826480",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "34133680",
+      "user_count": "1381",
+      "userinfo": {
+        "rid": 34133680,
+        "nickName": "Carzy丶小爱",
+        "avatar": "http://i8.pdim.gs/7c7ecd410fcff95e5917eeb034d51d6d.jpg"
+      },
+      "roominfo": {
+        "id": "5678888",
+        "hostid": "34133680",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "34550434",
+      "user_count": "1381",
+      "userinfo": {
+        "rid": 34550434,
+        "nickName": "张三虚",
+        "avatar": "http://i9.pdim.gs/97252c780bc62bb9a7fbd169ea98b8ca.jpg"
+      },
+      "roominfo": {
+        "id": "919055",
+        "hostid": "34550434",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "34431732",
+      "user_count": "1369",
+      "userinfo": {
+        "rid": 34431732,
+        "nickName": "小朵老师",
+        "avatar": "http://i9.pdim.gs/8a186cbe79b010895a0d7310b4cd4f98.jpeg"
+      },
+      "roominfo": {
+        "id": "423568",
+        "hostid": "34431732",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "4478984",
+      "user_count": "1361",
+      "userinfo": {
+        "rid": 4478984,
+        "nickName": "牌主任",
+        "avatar": "http://i7.pdim.gs/4043c2ac447a55162f7d313dc36a3b49.jpeg"
+      },
+      "roominfo": {
+        "id": "48663",
+        "hostid": "4478984",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "63019316",
+      "user_count": "1324",
+      "userinfo": {
+        "rid": 63019316,
+        "nickName": "天才虎姑姑",
+        "avatar": "http://i9.pdim.gs/ec492ff6bd45b21a332f7aad6723947b.jpg"
+      },
+      "roominfo": {
+        "id": "1252967",
+        "hostid": "63019316",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "80470352",
+      "user_count": "1287",
+      "userinfo": {
+        "rid": 80470352,
+        "nickName": "__炸鸡",
+        "avatar": "http://i9.pdim.gs/8f0258e9cf4e6e2f6192c26292d618f9.jpg"
+      },
+      "roominfo": {
+        "id": "1941848",
+        "hostid": "80470352",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "35767834",
+      "user_count": "1286",
+      "userinfo": {
+        "rid": 35767834,
+        "nickName": "波克回忆ing",
+        "avatar": "http://i9.pdim.gs/900fd9b22fb1c4ef59f2b68c39b661d8.jpg"
+      },
+      "roominfo": {
+        "id": "884617",
+        "hostid": "35767834",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "60509962",
+      "user_count": "1256",
+      "userinfo": {
+        "rid": 60509962,
+        "nickName": "熊猫TV郑伟",
+        "avatar": "http://i7.pdim.gs/ad09e76e8331e2b751559252082014ed.jpeg"
+      },
+      "roominfo": {
+        "id": "652734",
+        "hostid": "60509962",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "7599392",
+      "user_count": "1254",
+      "userinfo": {
+        "rid": 7599392,
+        "nickName": "自由自在的瓦公子",
+        "avatar": "http://i6.pdim.gs/c01043dcfe5f76b2c707d62c282f7847.jpg"
+      },
+      "roominfo": {
+        "id": "2278731",
+        "hostid": "7599392",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "30824330",
+      "user_count": "1254",
+      "userinfo": {
+        "rid": 30824330,
+        "nickName": "大嘴Plus",
+        "avatar": "http://i7.pdim.gs/fd30801102190c711f2df3cfe65c9560.jpg"
+      },
+      "roominfo": {
+        "id": "483552",
+        "hostid": "30824330",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "58777368",
+      "user_count": "1242",
+      "userinfo": {
+        "rid": 58777368,
+        "nickName": "魔王张三胖",
+        "avatar": "http://i6.pdim.gs/8797d28289af8ea3eabcdcd5b4c3bdae.jpeg"
+      },
+      "roominfo": {
+        "id": "848420",
+        "hostid": "58777368",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "48691504",
+      "user_count": "1218",
+      "userinfo": {
+        "rid": 48691504,
+        "nickName": "马小奶丶",
+        "avatar": "http://i9.pdim.gs/9c83d692756fc0a6c87b1eca90b28856.jpeg"
+      },
+      "roominfo": {
+        "id": "584109",
+        "hostid": "48691504",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "28037592",
+      "user_count": "1204",
+      "userinfo": {
+        "rid": 28037592,
+        "nickName": "Panda丶骇客",
+        "avatar": "http://i8.pdim.gs/4ea2b98e83588ecc0815f573d15004e5.jpeg"
+      },
+      "roominfo": {
+        "id": "403295",
+        "hostid": "28037592",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "77419294",
+      "user_count": "1191",
+      "userinfo": {
+        "rid": 77419294,
+        "nickName": "波克捕鱼丶小张",
+        "avatar": "http://i8.pdim.gs/98553eca156e37ba683a0ba5bb1e769c.jpg"
+      },
+      "roominfo": {
+        "id": "1531928",
+        "hostid": "77419294",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "29200186",
+      "user_count": "1145",
+      "userinfo": {
+        "rid": 29200186,
+        "nickName": "鹌鹑蛋小哥哥",
+        "avatar": "http://i9.pdim.gs/4af753a431cc674c22831bfc3c1b2bb4.jpg"
+      },
+      "roominfo": {
+        "id": "519802",
+        "hostid": "29200186",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3180912",
+      "user_count": "1143",
+      "userinfo": {
+        "rid": 3180912,
+        "nickName": "lol稳贱骨炼金",
+        "avatar": "http://i5.pdim.gs/ced6145fd9f01cc7023e536ea8a91514.jpeg"
+      },
+      "roominfo": {
+        "id": "29193",
+        "hostid": "3180912",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "120075026",
+      "user_count": "1138",
+      "userinfo": {
+        "rid": 120075026,
+        "nickName": "大血包打血包",
+        "avatar": "http://i6.pdim.gs/9bec11c570857f0f2c1711bc18de0b51.jpg"
+      },
+      "roominfo": {
+        "id": "1812053",
+        "hostid": "120075026",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "29519248",
+      "user_count": "1123",
+      "userinfo": {
+        "rid": 29519248,
+        "nickName": "桂林168",
+        "avatar": "http://i7.pdim.gs/9399814e74ad0a02937b2c1f0f6e5765.jpg"
+      },
+      "roominfo": {
+        "id": "400414",
+        "hostid": "29519248",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "98871134",
+      "user_count": "1119",
+      "userinfo": {
+        "rid": 98871134,
+        "nickName": "毛毛海鲜",
+        "avatar": "http://i8.pdim.gs/95a58051cbb558bbcfc3ef8218e7ed63.jpg"
+      },
+      "roominfo": {
+        "id": "1463979",
+        "hostid": "98871134",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "128419100",
+      "user_count": "1092",
+      "userinfo": {
+        "rid": 128419100,
+        "nickName": "冯指挥",
+        "avatar": "http://i7.pdim.gs/618e526deba767716e1845cba1d540d0.jpeg"
+      },
+      "roominfo": {
+        "id": "1959018",
+        "hostid": "128419100",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "61709270",
+      "user_count": "1084",
+      "userinfo": {
+        "rid": 61709270,
+        "nickName": "Carzy丶灵芝",
+        "avatar": "http://i9.pdim.gs/c559c02223f94c9d0a7a4a595bd09640.jpeg"
+      },
+      "roominfo": {
+        "id": "1062465",
+        "hostid": "61709270",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "62991034",
+      "user_count": "1083",
+      "userinfo": {
+        "rid": 62991034,
+        "nickName": "启程万炮出租",
+        "avatar": "http://i5.pdim.gs/6f0e8d38eba6bbb5c67d91b99dbe582b.jpg"
+      },
+      "roominfo": {
+        "id": "825174",
+        "hostid": "62991034",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3972768",
+      "user_count": "1064",
+      "userinfo": {
+        "rid": 3972768,
+        "nickName": "大金儿象棋",
+        "avatar": "http://i5.pdim.gs/d92d7bc3b7a63a3a2c669e7138be3c92.jpg"
+      },
+      "roominfo": {
+        "id": "34197",
+        "hostid": "3972768",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "147873818",
+      "user_count": "1063",
+      "userinfo": {
+        "rid": 147873818,
+        "nickName": "mua车车酱",
+        "avatar": "http://i8.pdim.gs/d1bb3f756cbfb24a90334ebc66794bbd.jpg"
+      },
+      "roominfo": {
+        "id": "2083193",
+        "hostid": "147873818",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "153431052",
+      "user_count": "1036",
+      "userinfo": {
+        "rid": 153431052,
+        "nickName": "小葡萄PUTAO",
+        "avatar": "http://i7.pdim.gs/44ea7a3136a69616299cb7c2beb40dd2.jpg"
+      },
+      "roominfo": {
+        "id": "2249660",
+        "hostid": "153431052",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "21396448",
+      "user_count": "1034",
+      "userinfo": {
+        "rid": 21396448,
+        "nickName": "熊猫TV刘皇叔",
+        "avatar": "http://i9.pdim.gs/4363871a52a6b878411e041146bc1718.jpeg"
+      },
+      "roominfo": {
+        "id": "571019",
+        "hostid": "21396448",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "108995280",
+      "user_count": "1025",
+      "userinfo": {
+        "rid": 108995280,
+        "nickName": "北京胡同儿",
+        "avatar": "http://i8.pdim.gs/f5508943e9db52db1da11d7925a8c472.jpg"
+      },
+      "roominfo": {
+        "id": "1664193",
+        "hostid": "108995280",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "21228844",
+      "user_count": "1022",
+      "userinfo": {
+        "rid": 21228844,
+        "nickName": "Cajin_西法",
+        "avatar": "http://i7.pdim.gs/6a27a741ded0daf7baa1f6a3472fa223.png"
+      },
+      "roominfo": {
+        "id": "119663",
+        "hostid": "21228844",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "37411916",
+      "user_count": "1017",
+      "userinfo": {
+        "rid": 37411916,
+        "nickName": "panda菠萝怪",
+        "avatar": "http://i5.pdim.gs/b449ba86a020232113a45b207ece4ce6.jpg"
+      },
+      "roominfo": {
+        "id": "1272001",
+        "hostid": "37411916",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3208234",
+      "user_count": "1013",
+      "userinfo": {
+        "rid": 3208234,
+        "nickName": "panda怀念",
+        "avatar": "http://i6.pdim.gs/0a1f7dd5c3a454942b75ca869738a510.jpeg"
+      },
+      "roominfo": {
+        "id": "1000000",
+        "hostid": "3208234",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "49068186",
+      "user_count": "1009",
+      "userinfo": {
+        "rid": 49068186,
+        "nickName": "鱼友会大脸",
+        "avatar": "http://i5.pdim.gs/44fc04d85f3f36005607adc3646fb144.jpg"
+      },
+      "roominfo": {
+        "id": "672096",
+        "hostid": "49068186",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "36967898",
+      "user_count": "1005",
+      "userinfo": {
+        "rid": 36967898,
+        "nickName": "ATM丶凹凸曼丶",
+        "avatar": "http://i8.pdim.gs/ff599606de195f792ce9861b0176c74e.jpg"
+      },
+      "roominfo": {
+        "id": "708292",
+        "hostid": "36967898",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3010000",
+      "user_count": "999",
+      "userinfo": {
+        "rid": 3010000,
+        "nickName": "王师傅",
+        "avatar": "http://i1.pdim.gs/t01d3c874fd7a7ea92f.jpg"
+      },
+      "roominfo": {
+        "id": "10029",
+        "hostid": "3010000",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "91428038",
+      "user_count": "999",
+      "userinfo": {
+        "rid": 91428038,
+        "nickName": "天使不会飞Ah",
+        "avatar": "http://i6.pdim.gs/8bc1beb5e8a182c594b2503c60f4787a.jpg"
+      },
+      "roominfo": {
+        "id": "1211655",
+        "hostid": "91428038",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "6523470",
+      "user_count": "996",
+      "userinfo": {
+        "rid": 6523470,
+        "nickName": "香蕉u",
+        "avatar": "http://i8.pdim.gs/c3f0ef17a77510e3283823f953d58217.jpg"
+      },
+      "roominfo": {
+        "id": "103675",
+        "hostid": "6523470",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "77571528",
+      "user_count": "975",
+      "userinfo": {
+        "rid": 77571528,
+        "nickName": "_毕先生",
+        "avatar": "http://i8.pdim.gs/ca769f634b29032a6f811c28ad0d07f3.jpg"
+      },
+      "roominfo": {
+        "id": "841582",
+        "hostid": "77571528",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "123510648",
+      "user_count": "975",
+      "userinfo": {
+        "rid": 123510648,
+        "nickName": "1962072戰族丿风",
+        "avatar": "http://i9.pdim.gs/68a68f9b325bf4f0260c5a0a301515a3.jpeg"
+      },
+      "roominfo": {
+        "id": "1962072",
+        "hostid": "123510648",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "130159110",
+      "user_count": "968",
+      "userinfo": {
+        "rid": 130159110,
+        "nickName": "沐橙儿",
+        "avatar": "http://i7.pdim.gs/4c597ae457cd427cb9ecb7d4e6f63067.jpg"
+      },
+      "roominfo": {
+        "id": "1919801",
+        "hostid": "130159110",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "85657570",
+      "user_count": "883",
+      "userinfo": {
+        "rid": 85657570,
+        "nickName": "傲视丶罗一",
+        "avatar": "http://i7.pdim.gs/b4d4bf4782d66e464cad73b47d629623.jpg"
+      },
+      "roominfo": {
+        "id": "1927367",
+        "hostid": "85657570",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3010870",
+      "user_count": "881",
+      "userinfo": {
+        "rid": 3010870,
+        "nickName": "小楼酱丶",
+        "avatar": "http://i5.pdim.gs/150c30181759eb0e88ddad1a9e27c5a1.jpeg"
+      },
+      "roominfo": {
+        "id": "520520",
+        "hostid": "3010870",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "146884812",
+      "user_count": "881",
+      "userinfo": {
+        "rid": 146884812,
+        "nickName": "小薇姐姐1",
+        "avatar": "http://i7.pdim.gs/0257040380bd7d294a8017532c07e39b.jpg"
+      },
+      "roominfo": {
+        "id": "2068775",
+        "hostid": "146884812",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "33744334",
+      "user_count": "877",
+      "userinfo": {
+        "rid": 33744334,
+        "nickName": "浙西大飞户外",
+        "avatar": "http://i5.pdim.gs/26d1f5427695e032cd5df8875d9a3f7f.jpg"
+      },
+      "roominfo": {
+        "id": "1332303",
+        "hostid": "33744334",
+        "style_type": "1",
+        "status": true
+      }
+    }
+  ],
+  "pre_week": "20181126",
+  "pre_rank_list": [
+    {
+      "anchorid": "3169412",
+      "user_count": "10243",
+      "userinfo": {
+        "rid": 3169412,
+        "nickName": "托马斯CzH",
+        "avatar": "http://i6.pdim.gs/666c7845e774c696821c172189edf5fd.jpeg"
+      },
+      "roominfo": {
+        "id": "20641",
+        "hostid": "3169412",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3503636",
+      "user_count": "6997",
+      "userinfo": {
+        "rid": 3503636,
+        "nickName": "戰族丿牧风",
+        "avatar": "http://i6.pdim.gs/bfc4e1d3506b20d56534ffde68092e8d.jpg"
+      },
+      "roominfo": {
+        "id": "100000",
+        "hostid": "3503636",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "30446032",
+      "user_count": "6526",
+      "userinfo": {
+        "rid": 30446032,
+        "nickName": "洪湖小肖户外打野",
+        "avatar": "http://i9.pdim.gs/46fa2fd8a4f2e05e6095282afb908150.jpg"
+      },
+      "roominfo": {
+        "id": "337852",
+        "hostid": "30446032",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "112858386",
+      "user_count": "5706",
+      "userinfo": {
+        "rid": 112858386,
+        "nickName": "路大叔_",
+        "avatar": "http://i9.pdim.gs/cac42f228c588d7bd00d049cfaf57de0.jpg"
+      },
+      "roominfo": {
+        "id": "333999",
+        "hostid": "112858386",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "40416018",
+      "user_count": "5382",
+      "userinfo": {
+        "rid": 40416018,
+        "nickName": "帝王白菜",
+        "avatar": "http://i9.pdim.gs/d0a02f39a709ae5dc993670d531d53d0.png"
+      },
+      "roominfo": {
+        "id": "63333",
+        "hostid": "40416018",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "25714080",
+      "user_count": "5276",
+      "userinfo": {
+        "rid": 25714080,
+        "nickName": "熊猫丶浩哥户外",
+        "avatar": "http://i9.pdim.gs/eb6753fe7cf32db9ad0c42c91227fd13.jpg"
+      },
+      "roominfo": {
+        "id": "257838",
+        "hostid": "25714080",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "3056580",
+      "user_count": "5151",
+      "userinfo": {
+        "rid": 3056580,
+        "nickName": "雨神、",
+        "avatar": "http://i9.pdim.gs/d4bb317f521351a57935d841efacdafe.jpeg"
+      },
+      "roominfo": {
+        "id": "6512",
+        "hostid": "3056580",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "37849992",
+      "user_count": "4673",
+      "userinfo": {
+        "rid": 37849992,
+        "nickName": "命族丶命运丨",
+        "avatar": "http://i5.pdim.gs/5f9823fa9b91b79b3bf2cdfcb08f5a37.jpg"
+      },
+      "roominfo": {
+        "id": "484168",
+        "hostid": "37849992",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "120831990",
+      "user_count": "4352",
+      "userinfo": {
+        "rid": 120831990,
+        "nickName": "永恒丶唯己",
+        "avatar": "http://i6.pdim.gs/17c105ead5602e8b57b4dae0d68682be.jpg"
+      },
+      "roominfo": {
+        "id": "1811418",
+        "hostid": "120831990",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "36476484",
+      "user_count": "4163",
+      "userinfo": {
+        "rid": 36476484,
+        "nickName": "Ace丶D艾斯",
+        "avatar": "http://i9.pdim.gs/de039fea497e68deeb8ef3057b692ee0.jpg"
+      },
+      "roominfo": {
+        "id": "633929",
+        "hostid": "36476484",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "20853042",
+      "user_count": "3870",
+      "userinfo": {
+        "rid": 20853042,
+        "nickName": "一一果果一",
+        "avatar": "http://i7.pdim.gs/065a91e09713f18ae5ac50c599f908e6.jpg"
+      },
+      "roominfo": {
+        "id": "111999",
+        "hostid": "20853042",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "60618446",
+      "user_count": "3446",
+      "userinfo": {
+        "rid": 60618446,
+        "nickName": "Jony向死而生",
+        "avatar": "http://i6.pdim.gs/5e46a93ce8724ecc5d3c0833c04a163b.jpeg"
+      },
+      "roominfo": {
+        "id": "2193979",
+        "hostid": "60618446",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "26485224",
+      "user_count": "3429",
+      "userinfo": {
+        "rid": 26485224,
+        "nickName": "Mr丶奋斗",
+        "avatar": "http://i5.pdim.gs/83ff0715f65e40a94c199684a72ffe6f.jpeg"
+      },
+      "roominfo": {
+        "id": "280071",
+        "hostid": "26485224",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3015838",
+      "user_count": "3414",
+      "userinfo": {
+        "rid": 3015838,
+        "nickName": "米兰s",
+        "avatar": "http://i6.pdim.gs/b73d06f49fa51c725902110e580be7b8.jpg"
+      },
+      "roominfo": {
+        "id": "45115",
+        "hostid": "3015838",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "26517866",
+      "user_count": "3370",
+      "userinfo": {
+        "rid": 26517866,
+        "nickName": "戰族丿成成",
+        "avatar": "http://i8.pdim.gs/200947a5ea74d843c69a17fe7e8871ca.jpg"
+      },
+      "roominfo": {
+        "id": "520666",
+        "hostid": "26517866",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "33349868",
+      "user_count": "3370",
+      "userinfo": {
+        "rid": 33349868,
+        "nickName": "波克奋斗ing",
+        "avatar": "http://i6.pdim.gs/430802d7ed493dfe749eceb880a33325.jpg"
+      },
+      "roominfo": {
+        "id": "56565",
+        "hostid": "33349868",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3009988",
+      "user_count": "3310",
+      "userinfo": {
+        "rid": 3009988,
+        "nickName": "风行云",
+        "avatar": "http://i6.pdim.gs/3d62c737e4dd90dc6c4990de9ab00fb8.png"
+      },
+      "roominfo": {
+        "id": "10015",
+        "hostid": "3009988",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "53966180",
+      "user_count": "3215",
+      "userinfo": {
+        "rid": 53966180,
+        "nickName": "老狼雄起",
+        "avatar": "http://i7.pdim.gs/21cfab30fc741d509bf2ef70ea0d226e.jpeg"
+      },
+      "roominfo": {
+        "id": "911527",
+        "hostid": "53966180",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "32442090",
+      "user_count": "3198",
+      "userinfo": {
+        "rid": 32442090,
+        "nickName": "蓝战非",
+        "avatar": "http://i7.pdim.gs/9ec8fadcbcce4db9f781370b349044f9.jpeg"
+      },
+      "roominfo": {
+        "id": "70000",
+        "hostid": "32442090",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "34884818",
+      "user_count": "3165",
+      "userinfo": {
+        "rid": 34884818,
+        "nickName": "星美盛世传媒",
+        "avatar": "http://i6.pdim.gs/dc33b07b15a1291384348bad303c8344.jpg"
+      },
+      "roominfo": {
+        "id": "435992",
+        "hostid": "34884818",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "38027126",
+      "user_count": "3149",
+      "userinfo": {
+        "rid": 38027126,
+        "nickName": "yufo888666",
+        "avatar": "http://i5.pdim.gs/6c256c4c894410a71579cc6bbae0e7a9.jpeg"
+      },
+      "roominfo": {
+        "id": "1225685",
+        "hostid": "38027126",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "97907376",
+      "user_count": "3044",
+      "userinfo": {
+        "rid": 97907376,
+        "nickName": "领界传媒",
+        "avatar": "http://i9.pdim.gs/5b3a4f131e3e833d058fbe0eafeba21f.jpeg"
+      },
+      "roominfo": {
+        "id": "1350869",
+        "hostid": "97907376",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "105425278",
+      "user_count": "3014",
+      "userinfo": {
+        "rid": 105425278,
+        "nickName": "帝王球球",
+        "avatar": "http://i5.pdim.gs/7967da903f0618ad7becba5868ef08c5.png"
+      },
+      "roominfo": {
+        "id": "1505633",
+        "hostid": "105425278",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3010086",
+      "user_count": "2936",
+      "userinfo": {
+        "rid": 3010086,
+        "nickName": "刘杀鸡",
+        "avatar": "http://i7.pdim.gs/6d1710453eed85463383866591c8bef9.png"
+      },
+      "roominfo": {
+        "id": "66666",
+        "hostid": "3010086",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "31710696",
+      "user_count": "2909",
+      "userinfo": {
+        "rid": 31710696,
+        "nickName": "别再讨好虚伪",
+        "avatar": "http://i5.pdim.gs/53a3c16500342bccfbabce1c5045eaab.jpeg"
+      },
+      "roominfo": {
+        "id": "504097",
+        "hostid": "31710696",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "3012024",
+      "user_count": "2800",
+      "userinfo": {
+        "rid": 3012024,
+        "nickName": "挪威鸭",
+        "avatar": "http://i9.pdim.gs/8172c9309b2d63bdf361b55c8cd78db5.png"
+      },
+      "roominfo": {
+        "id": "13877",
+        "hostid": "3012024",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "27636760",
+      "user_count": "2789",
+      "userinfo": {
+        "rid": 27636760,
+        "nickName": "FZT_方正",
+        "avatar": "http://i6.pdim.gs/99ec2cd48a659be9c249be9f3731b49b.jpg"
+      },
+      "roominfo": {
+        "id": "769965",
+        "hostid": "27636760",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "20355082",
+      "user_count": "2783",
+      "userinfo": {
+        "rid": 20355082,
+        "nickName": "小島",
+        "avatar": "http://i8.pdim.gs/547a0958d88a3f46f28af9db36637b70.jpg"
+      },
+      "roominfo": {
+        "id": "1614591",
+        "hostid": "20355082",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "119763368",
+      "user_count": "2651",
+      "userinfo": {
+        "rid": 119763368,
+        "nickName": "Saki小夭夭",
+        "avatar": "http://i8.pdim.gs/fc01617a7ff36bbdc1d661f2b2f06ea3.jpg"
+      },
+      "roominfo": {
+        "id": "1945261",
+        "hostid": "119763368",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "31019310",
+      "user_count": "2649",
+      "userinfo": {
+        "rid": 31019310,
+        "nickName": "寒冬Zz",
+        "avatar": "http://i9.pdim.gs/cc38270ec8de6459f814b44543fd0a24.jpeg"
+      },
+      "roominfo": {
+        "id": "628571",
+        "hostid": "31019310",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "44812664",
+      "user_count": "2513",
+      "userinfo": {
+        "rid": 44812664,
+        "nickName": "雪_舞",
+        "avatar": "http://i6.pdim.gs/b3885ee9d8f7bcefb2e445db66df1fa5.jpg"
+      },
+      "roominfo": {
+        "id": "2239414",
+        "hostid": "44812664",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "33101240",
+      "user_count": "2499",
+      "userinfo": {
+        "rid": 33101240,
+        "nickName": "戰族丿荔枝",
+        "avatar": "http://i7.pdim.gs/b1f17ffc99c7a5d66226ddec22da95bc.jpeg"
+      },
+      "roominfo": {
+        "id": "2293788",
+        "hostid": "33101240",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "34133680",
+      "user_count": "2472",
+      "userinfo": {
+        "rid": 34133680,
+        "nickName": "Carzy丶小爱",
+        "avatar": "http://i8.pdim.gs/7c7ecd410fcff95e5917eeb034d51d6d.jpg"
+      },
+      "roominfo": {
+        "id": "5678888",
+        "hostid": "34133680",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "70153690",
+      "user_count": "2396",
+      "userinfo": {
+        "rid": 70153690,
+        "nickName": "小师弟180",
+        "avatar": "http://i5.pdim.gs/12d7ec6dec2eb6f0e733838a664da25f.jpg"
+      },
+      "roominfo": {
+        "id": "727405",
+        "hostid": "70153690",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "55643710",
+      "user_count": "2393",
+      "userinfo": {
+        "rid": 55643710,
+        "nickName": "龙象会丶敏感",
+        "avatar": "http://i9.pdim.gs/442e013b74599851b6fb5a4d06bed9f8.jpeg"
+      },
+      "roominfo": {
+        "id": "609428",
+        "hostid": "55643710",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "131843712",
+      "user_count": "2334",
+      "userinfo": {
+        "rid": 131843712,
+        "nickName": "家琪呀",
+        "avatar": "http://i5.pdim.gs/d2e9826a7a5d8d529795a26af8458084.jpg"
+      },
+      "roominfo": {
+        "id": "1889299",
+        "hostid": "131843712",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "34061700",
+      "user_count": "2291",
+      "userinfo": {
+        "rid": 34061700,
+        "nickName": "洪湖828打野",
+        "avatar": "http://i6.pdim.gs/b823c423f7d7c7a640eaefe9d1cc4609.jpeg"
+      },
+      "roominfo": {
+        "id": "1382668",
+        "hostid": "34061700",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "88927740",
+      "user_count": "2227",
+      "userinfo": {
+        "rid": 88927740,
+        "nickName": "波克捕鱼达人小白",
+        "avatar": "http://i7.pdim.gs/acb9687df3736163ba98347cdd48403c.jpg"
+      },
+      "roominfo": {
+        "id": "1163254",
+        "hostid": "88927740",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "108636218",
+      "user_count": "2023",
+      "userinfo": {
+        "rid": 108636218,
+        "nickName": "贾克虎丶虎神",
+        "avatar": "http://i7.pdim.gs/a546e1b207a5a5ff1e7d25e5f3fb8594.png"
+      },
+      "roominfo": {
+        "id": "575757",
+        "hostid": "108636218",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "63019316",
+      "user_count": "2002",
+      "userinfo": {
+        "rid": 63019316,
+        "nickName": "天才虎姑姑",
+        "avatar": "http://i9.pdim.gs/ec492ff6bd45b21a332f7aad6723947b.jpg"
+      },
+      "roominfo": {
+        "id": "1252967",
+        "hostid": "63019316",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "38787346",
+      "user_count": "1999",
+      "userinfo": {
+        "rid": 38787346,
+        "nickName": "九丶卿",
+        "avatar": "http://i7.pdim.gs/45a5829167c1166160c2209f02532ac5.jpeg"
+      },
+      "roominfo": {
+        "id": "629018",
+        "hostid": "38787346",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "39315422",
+      "user_count": "1998",
+      "userinfo": {
+        "rid": 39315422,
+        "nickName": "小笼包z丶",
+        "avatar": "http://i8.pdim.gs/51e0f6b4ca36e447514461576a2db3e2.jpeg"
+      },
+      "roominfo": {
+        "id": "2280640",
+        "hostid": "39315422",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "94462808",
+      "user_count": "1913",
+      "userinfo": {
+        "rid": 94462808,
+        "nickName": "一一你是魔鬼吗一",
+        "avatar": "http://i8.pdim.gs/52861437185cad975ad74e26b98ffcab.jpg"
+      },
+      "roominfo": {
+        "id": "2315326",
+        "hostid": "94462808",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "133496250",
+      "user_count": "1906",
+      "userinfo": {
+        "rid": 133496250,
+        "nickName": "胖虎精品万炮专家",
+        "avatar": "http://i6.pdim.gs/86ceba657386091c6304811fca63bb33.jpeg"
+      },
+      "roominfo": {
+        "id": "2183585",
+        "hostid": "133496250",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "40470368",
+      "user_count": "1897",
+      "userinfo": {
+        "rid": 40470368,
+        "nickName": "Super你兵哥",
+        "avatar": "http://i8.pdim.gs/60c2fe0d88281199987d19b79a73a4a6.jpg"
+      },
+      "roominfo": {
+        "id": "561227",
+        "hostid": "40470368",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "152701262",
+      "user_count": "1865",
+      "userinfo": {
+        "rid": 152701262,
+        "nickName": "你的樱桃小雪呀",
+        "avatar": "http://i7.pdim.gs/0a3543e87665c0f0c72b91ce398651e1.jpg"
+      },
+      "roominfo": {
+        "id": "2235361",
+        "hostid": "152701262",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "4550918",
+      "user_count": "1836",
+      "userinfo": {
+        "rid": 4550918,
+        "nickName": "宅妹",
+        "avatar": "http://i7.pdim.gs/12d0bf12e125463317f5e6a4c04e1327.jpg"
+      },
+      "roominfo": {
+        "id": "6666666",
+        "hostid": "4550918",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "149810464",
+      "user_count": "1824",
+      "userinfo": {
+        "rid": 149810464,
+        "nickName": "波克捕鱼达人青春",
+        "avatar": "http://i9.pdim.gs/f255e46a301c25ef9fd8df635e7c6515.png"
+      },
+      "roominfo": {
+        "id": "2167534",
+        "hostid": "149810464",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "110709416",
+      "user_count": "1749",
+      "userinfo": {
+        "rid": 110709416,
+        "nickName": "非洲宋小宝",
+        "avatar": "http://i6.pdim.gs/0773655ff603812368d3fa485906c3f5.jpeg"
+      },
+      "roominfo": {
+        "id": "1582021",
+        "hostid": "110709416",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "89744688",
+      "user_count": "1744",
+      "userinfo": {
+        "rid": 89744688,
+        "nickName": "渔猎部落",
+        "avatar": "http://i6.pdim.gs/e8e316e63bbdcf1df6f59022c9686b97.jpg"
+      },
+      "roominfo": {
+        "id": "2154453",
+        "hostid": "89744688",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "90853274",
+      "user_count": "1701",
+      "userinfo": {
+        "rid": 90853274,
+        "nickName": "鱼友会小样",
+        "avatar": "http://i6.pdim.gs/abf5bf8352b92f16af3a10ba73299436.jpeg"
+      },
+      "roominfo": {
+        "id": "2243175",
+        "hostid": "90853274",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "33472900",
+      "user_count": "1680",
+      "userinfo": {
+        "rid": 33472900,
+        "nickName": "沈子涵",
+        "avatar": "http://i8.pdim.gs/91043b7259c88a03c798fe85cadce3fe.jpg"
+      },
+      "roominfo": {
+        "id": "408118",
+        "hostid": "33472900",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3010870",
+      "user_count": "1647",
+      "userinfo": {
+        "rid": 3010870,
+        "nickName": "小楼酱丶",
+        "avatar": "http://i5.pdim.gs/150c30181759eb0e88ddad1a9e27c5a1.jpeg"
+      },
+      "roominfo": {
+        "id": "520520",
+        "hostid": "3010870",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "83665216",
+      "user_count": "1644",
+      "userinfo": {
+        "rid": 83665216,
+        "nickName": "一仙某某一",
+        "avatar": "http://i6.pdim.gs/2ce8886839b58c58f2bc2809284f9917.jpeg"
+      },
+      "roominfo": {
+        "id": "88888",
+        "hostid": "83665216",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "47351536",
+      "user_count": "1626",
+      "userinfo": {
+        "rid": 47351536,
+        "nickName": "猛寶大魔王",
+        "avatar": "http://i7.pdim.gs/fbafba7aa43dad93be98d47f13e89a50.jpg"
+      },
+      "roominfo": {
+        "id": "1638015",
+        "hostid": "47351536",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "53196726",
+      "user_count": "1589",
+      "userinfo": {
+        "rid": 53196726,
+        "nickName": "屠鱼族丿小刀",
+        "avatar": "http://i6.pdim.gs/43368f9678ca27d8da71f5e2540908db.jpeg"
+      },
+      "roominfo": {
+        "id": "715764",
+        "hostid": "53196726",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "49068186",
+      "user_count": "1574",
+      "userinfo": {
+        "rid": 49068186,
+        "nickName": "鱼友会大脸",
+        "avatar": "http://i5.pdim.gs/44fc04d85f3f36005607adc3646fb144.jpg"
+      },
+      "roominfo": {
+        "id": "672096",
+        "hostid": "49068186",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "140781158",
+      "user_count": "1570",
+      "userinfo": {
+        "rid": 140781158,
+        "nickName": "笑言S",
+        "avatar": "http://i8.pdim.gs/075fac3da2219456626786974e4a6f7a.jpg"
+      },
+      "roominfo": {
+        "id": "2016233",
+        "hostid": "140781158",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3224726",
+      "user_count": "1557",
+      "userinfo": {
+        "rid": 3224726,
+        "nickName": "卿卿学姐",
+        "avatar": "http://i7.pdim.gs/2618d4cd0f45524b3ba41388d560348c.jpg"
+      },
+      "roominfo": {
+        "id": "631377",
+        "hostid": "3224726",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "3010000",
+      "user_count": "1543",
+      "userinfo": {
+        "rid": 3010000,
+        "nickName": "王师傅",
+        "avatar": "http://i1.pdim.gs/t01d3c874fd7a7ea92f.jpg"
+      },
+      "roominfo": {
+        "id": "10029",
+        "hostid": "3010000",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "147873818",
+      "user_count": "1530",
+      "userinfo": {
+        "rid": 147873818,
+        "nickName": "mua车车酱",
+        "avatar": "http://i8.pdim.gs/d1bb3f756cbfb24a90334ebc66794bbd.jpg"
+      },
+      "roominfo": {
+        "id": "2083193",
+        "hostid": "147873818",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "85296556",
+      "user_count": "1516",
+      "userinfo": {
+        "rid": 85296556,
+        "nickName": "虎啸平川象棋",
+        "avatar": "http://i5.pdim.gs/8c44e86a997b0ca3414a068782ff5e1f.jpg"
+      },
+      "roominfo": {
+        "id": "1057016",
+        "hostid": "85296556",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "101838380",
+      "user_count": "1484",
+      "userinfo": {
+        "rid": 101838380,
+        "nickName": "T神情怀",
+        "avatar": "http://i6.pdim.gs/057b17ea606118222b565fbe4d13f36e.jpeg"
+      },
+      "roominfo": {
+        "id": "1489457",
+        "hostid": "101838380",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "30824330",
+      "user_count": "1479",
+      "userinfo": {
+        "rid": 30824330,
+        "nickName": "大嘴Plus",
+        "avatar": "http://i7.pdim.gs/fd30801102190c711f2df3cfe65c9560.jpg"
+      },
+      "roominfo": {
+        "id": "483552",
+        "hostid": "30824330",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "60509962",
+      "user_count": "1474",
+      "userinfo": {
+        "rid": 60509962,
+        "nickName": "熊猫TV郑伟",
+        "avatar": "http://i7.pdim.gs/ad09e76e8331e2b751559252082014ed.jpeg"
+      },
+      "roominfo": {
+        "id": "652734",
+        "hostid": "60509962",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "128419100",
+      "user_count": "1453",
+      "userinfo": {
+        "rid": 128419100,
+        "nickName": "冯指挥",
+        "avatar": "http://i7.pdim.gs/618e526deba767716e1845cba1d540d0.jpeg"
+      },
+      "roominfo": {
+        "id": "1959018",
+        "hostid": "128419100",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "55537788",
+      "user_count": "1433",
+      "userinfo": {
+        "rid": 55537788,
+        "nickName": "爱超神的大妮",
+        "avatar": "http://i7.pdim.gs/2635ebc2acb1f5dac4adbfa865bd4b7c.jpg"
+      },
+      "roominfo": {
+        "id": "617468",
+        "hostid": "55537788",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "38021372",
+      "user_count": "1351",
+      "userinfo": {
+        "rid": 38021372,
+        "nickName": "波克捕鱼一将就",
+        "avatar": "http://i7.pdim.gs/ba590291aeae6d3cd6da1c46eaa0c221.jpg"
+      },
+      "roominfo": {
+        "id": "1066325",
+        "hostid": "38021372",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "36967898",
+      "user_count": "1343",
+      "userinfo": {
+        "rid": 36967898,
+        "nickName": "ATM丶凹凸曼丶",
+        "avatar": "http://i8.pdim.gs/ff599606de195f792ce9861b0176c74e.jpg"
+      },
+      "roominfo": {
+        "id": "708292",
+        "hostid": "36967898",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "34550434",
+      "user_count": "1320",
+      "userinfo": {
+        "rid": 34550434,
+        "nickName": "张三虚",
+        "avatar": "http://i9.pdim.gs/97252c780bc62bb9a7fbd169ea98b8ca.jpg"
+      },
+      "roominfo": {
+        "id": "919055",
+        "hostid": "34550434",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "80425374",
+      "user_count": "1313",
+      "userinfo": {
+        "rid": 80425374,
+        "nickName": "色扣必胜",
+        "avatar": "http://i5.pdim.gs/037b8b5c96d10b82d930bb63698c5611.jpg"
+      },
+      "roominfo": {
+        "id": "1832469",
+        "hostid": "80425374",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "77419294",
+      "user_count": "1270",
+      "userinfo": {
+        "rid": 77419294,
+        "nickName": "波克捕鱼丶小张",
+        "avatar": "http://i8.pdim.gs/98553eca156e37ba683a0ba5bb1e769c.jpg"
+      },
+      "roominfo": {
+        "id": "1531928",
+        "hostid": "77419294",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "5148884",
+      "user_count": "1261",
+      "userinfo": {
+        "rid": 5148884,
+        "nickName": "云飞户外",
+        "avatar": "http://i5.pdim.gs/2adcd5c2f49f3a715abf647d1cad0bc9.jpeg"
+      },
+      "roominfo": {
+        "id": "670836",
+        "hostid": "5148884",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "104986900",
+      "user_count": "1229",
+      "userinfo": {
+        "rid": 104986900,
+        "nickName": "马小白yuki",
+        "avatar": "http://i7.pdim.gs/f625add7c6c42bf139bfb2ce8fa4c7d6.jpeg"
+      },
+      "roominfo": {
+        "id": "1860153",
+        "hostid": "104986900",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "122652248",
+      "user_count": "1217",
+      "userinfo": {
+        "rid": 122652248,
+        "nickName": "茉莉花00",
+        "avatar": "http://i9.pdim.gs/7482772c95692078379c2fd54f1499fc.jpeg"
+      },
+      "roominfo": {
+        "id": "1819703",
+        "hostid": "122652248",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "84925278",
+      "user_count": "1214",
+      "userinfo": {
+        "rid": 84925278,
+        "nickName": "溜了个欣欣",
+        "avatar": "http://i9.pdim.gs/fec5709872d78340850741a6f0f3bbc2.jpg"
+      },
+      "roominfo": {
+        "id": "2051104",
+        "hostid": "84925278",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "62991034",
+      "user_count": "1204",
+      "userinfo": {
+        "rid": 62991034,
+        "nickName": "启程万炮出租",
+        "avatar": "http://i5.pdim.gs/6f0e8d38eba6bbb5c67d91b99dbe582b.jpg"
+      },
+      "roominfo": {
+        "id": "825174",
+        "hostid": "62991034",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "29289938",
+      "user_count": "1168",
+      "userinfo": {
+        "rid": 29289938,
+        "nickName": "Panda龙哥哥",
+        "avatar": "http://i5.pdim.gs/b797ffb8e0542d8bedfbbb2259e89580.jpg"
+      },
+      "roominfo": {
+        "id": "480108",
+        "hostid": "29289938",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "146884812",
+      "user_count": "1152",
+      "userinfo": {
+        "rid": 146884812,
+        "nickName": "小薇姐姐1",
+        "avatar": "http://i7.pdim.gs/0257040380bd7d294a8017532c07e39b.jpg"
+      },
+      "roominfo": {
+        "id": "2068775",
+        "hostid": "146884812",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "67015970",
+      "user_count": "1113",
+      "userinfo": {
+        "rid": 67015970,
+        "nickName": "皮西蒙",
+        "avatar": "http://i5.pdim.gs/560744952b1405dfba3440f6e4357de6.jpg"
+      },
+      "roominfo": {
+        "id": "2072452",
+        "hostid": "67015970",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "78768300",
+      "user_count": "1107",
+      "userinfo": {
+        "rid": 78768300,
+        "nickName": "冷森5",
+        "avatar": "http://i9.pdim.gs/62d9a110122aa9e95d34a315c65c76ae.jpg"
+      },
+      "roominfo": {
+        "id": "2081027",
+        "hostid": "78768300",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "68929664",
+      "user_count": "1103",
+      "userinfo": {
+        "rid": 68929664,
+        "nickName": "阿di丶无双",
+        "avatar": "http://i8.pdim.gs/26adab700e7317d5d693288ee9e1dc2f.jpg"
+      },
+      "roominfo": {
+        "id": "2014284",
+        "hostid": "68929664",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "92444746",
+      "user_count": "1078",
+      "userinfo": {
+        "rid": 92444746,
+        "nickName": "荒野俄罗斯",
+        "avatar": "http://i7.pdim.gs/ce6dc517b720ec5aeb905195270b2c4d.jpg"
+      },
+      "roominfo": {
+        "id": "1571712",
+        "hostid": "92444746",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "97818468",
+      "user_count": "1072",
+      "userinfo": {
+        "rid": 97818468,
+        "nickName": "尢娜",
+        "avatar": "http://i7.pdim.gs/4b8999077dfec5c19e473f452cac366f.jpg"
+      },
+      "roominfo": {
+        "id": "1349458",
+        "hostid": "97818468",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "130208172",
+      "user_count": "1059",
+      "userinfo": {
+        "rid": 130208172,
+        "nickName": "波克捕鱼达人强哥",
+        "avatar": "http://i6.pdim.gs/54965ffab2dfa7cf834f858744389e46.jpeg"
+      },
+      "roominfo": {
+        "id": "1892902",
+        "hostid": "130208172",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "48691504",
+      "user_count": "1043",
+      "userinfo": {
+        "rid": 48691504,
+        "nickName": "马小奶丶",
+        "avatar": "http://i9.pdim.gs/9c83d692756fc0a6c87b1eca90b28856.jpeg"
+      },
+      "roominfo": {
+        "id": "584109",
+        "hostid": "48691504",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "50567104",
+      "user_count": "1031",
+      "userinfo": {
+        "rid": 50567104,
+        "nickName": "是小傻瓜呀",
+        "avatar": "http://i9.pdim.gs/4a2f1bbb4dd2c67d61c03355290b8d52.jpg"
+      },
+      "roominfo": {
+        "id": "591738",
+        "hostid": "50567104",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "68688890",
+      "user_count": "1008",
+      "userinfo": {
+        "rid": 68688890,
+        "nickName": "简单点丶无双",
+        "avatar": "http://i5.pdim.gs/cc6bb5f35417addb8de8dde6998d4ae4.jpeg"
+      },
+      "roominfo": {
+        "id": "685665",
+        "hostid": "68688890",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "86239394",
+      "user_count": "1004",
+      "userinfo": {
+        "rid": 86239394,
+        "nickName": "爱豆哟",
+        "avatar": "http://i6.pdim.gs/3bf0471f74a0d75025301ed3dfeb45b5.jpeg"
+      },
+      "roominfo": {
+        "id": "1078735",
+        "hostid": "86239394",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "29519248",
+      "user_count": "991",
+      "userinfo": {
+        "rid": 29519248,
+        "nickName": "桂林168",
+        "avatar": "http://i7.pdim.gs/9399814e74ad0a02937b2c1f0f6e5765.jpg"
+      },
+      "roominfo": {
+        "id": "400414",
+        "hostid": "29519248",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "33279708",
+      "user_count": "989",
+      "userinfo": {
+        "rid": 33279708,
+        "nickName": "主播少囧",
+        "avatar": "http://i6.pdim.gs/bb6f927d481417ebd94efefb0a475310.jpeg"
+      },
+      "roominfo": {
+        "id": "80000",
+        "hostid": "33279708",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "34385220",
+      "user_count": "989",
+      "userinfo": {
+        "rid": 34385220,
+        "nickName": "瑞兹大魔王yc",
+        "avatar": "http://i6.pdim.gs/6983a733eba7d9311899ad90bc6bc6bb.jpeg"
+      },
+      "roominfo": {
+        "id": "2063682",
+        "hostid": "34385220",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "59561342",
+      "user_count": "985",
+      "userinfo": {
+        "rid": 59561342,
+        "nickName": "豆子酸奶",
+        "avatar": "http://i7.pdim.gs/f5105c8ea49f794bb7b8ec8446214ecb.jpg"
+      },
+      "roominfo": {
+        "id": "1469588",
+        "hostid": "59561342",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "127826480",
+      "user_count": "976",
+      "userinfo": {
+        "rid": 127826480,
+        "nickName": "杂耍老大飞鱼妹",
+        "avatar": "http://i6.pdim.gs/8e2c45922fb0aba7a57384b65fcbe27c.jpg"
+      },
+      "roominfo": {
+        "id": "1862008",
+        "hostid": "127826480",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "116310572",
+      "user_count": "973",
+      "userinfo": {
+        "rid": 116310572,
+        "nickName": "wuli聪妹儿",
+        "avatar": "http://i5.pdim.gs/a82c9de03939cf2cb674ecb7183fa073.jpg"
+      },
+      "roominfo": {
+        "id": "1743491",
+        "hostid": "116310572",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "38762496",
+      "user_count": "955",
+      "userinfo": {
+        "rid": 38762496,
+        "nickName": "Ain耀扬",
+        "avatar": "http://i8.pdim.gs/d338e408490784afaebed70c1e8b469d.jpg"
+      },
+      "roominfo": {
+        "id": "852451",
+        "hostid": "38762496",
+        "style_type": "1",
+        "status": true
+      }
+    },
+    {
+      "anchorid": "29462962",
+      "user_count": "954",
+      "userinfo": {
+        "rid": 29462962,
+        "nickName": "巅峰商盟丶小雨",
+        "avatar": "http://i6.pdim.gs/da6e39c5ef12cb469bfbfbea743b768e.jpg"
+      },
+      "roominfo": {
+        "id": "1941970",
+        "hostid": "29462962",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "6523470",
+      "user_count": "950",
+      "userinfo": {
+        "rid": 6523470,
+        "nickName": "香蕉u",
+        "avatar": "http://i8.pdim.gs/c3f0ef17a77510e3283823f953d58217.jpg"
+      },
+      "roominfo": {
+        "id": "103675",
+        "hostid": "6523470",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "88232756",
+      "user_count": "947",
+      "userinfo": {
+        "rid": 88232756,
+        "nickName": "大飞万炮机械",
+        "avatar": "http://i9.pdim.gs/f2f5345b9e5948268d4e473572da736d.jpg"
+      },
+      "roominfo": {
+        "id": "1178298",
+        "hostid": "88232756",
+        "style_type": "1",
+        "status": false
+      }
+    },
+    {
+      "anchorid": "5497276",
+      "user_count": "945",
+      "userinfo": {
+        "rid": 5497276,
+        "nickName": "王炸丶飞神",
+        "avatar": "http://i8.pdim.gs/0f1d8757065e2f804d433670d2eb8f27.jpeg"
+      },
+      "roominfo": {
+        "id": "39623",
+        "hostid": "5497276",
+        "style_type": "1",
+        "status": true
+      }
+    }
+  ]
+}
